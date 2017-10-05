@@ -4,7 +4,7 @@
   "description": "Function that helps to catch specific error classes and passes other through",
   "main": "index.js",
   "types": "index.d.ts",
-  "git": "https://github.com/pldin601/catch-filter",
+  "repository": "https://github.com/pldin601/catch-filter",
   "scripts": {
     "test": "jest"
   },
