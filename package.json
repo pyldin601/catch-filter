@@ -1,6 +1,6 @@
 {
   "name": "catch-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function that helps to catch specific error classes and passes other through",
   "main": "index.js",
   "types": "index.d.ts",
